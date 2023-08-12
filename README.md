@@ -11,9 +11,7 @@
   <li>This would help users to make more informed purchase decisions.</li>
   <li>This would also help businesses to increase sales by making their products more appealing to a wider range of customers.</li>
   <li>The main challenge of this project would be to develop a way to change the color of a product image in real time.</li>
-</ul>
-
-
-
-  
+</ul><br><br>
+<img src="https://github.com/Saswat-Kumar-Pradhan/PRODUCT-COLOR-CHANGE/assets/127642809/e96f7163-806c-4d3d-aab3-daa87157a5bf"></img>
+<img src="https://github.com/Saswat-Kumar-Pradhan/PRODUCT-COLOR-CHANGE/assets/127642809/73328525-c46d-41ae-b2dd-f4069e24c0b0"></img>
 
